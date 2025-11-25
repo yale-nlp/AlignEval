@@ -1,4 +1,4 @@
-# AlignEval
+# AlignEval: Evaluating LLM Alignment by Evaluating LLMs as Judges
 
 This is the code repository for our NeurIPS 2025 paper ["On Evaluating LLM Alignment by Evaluating LLMs as Judges"](https://openreview.net/forum?id=OBaK9JSbHk). This repository contains the necessary scripts and data to evaluate the alignment of large language models (LLMs) using the AlignEval framework.
 
